@@ -10,6 +10,9 @@ begin
 	TableOfContents()
 end
 
+# ╔═╡ bb7d2bf4-eb27-4699-ad47-b17f88a14a03
+html"<button onclick='present()'>present</button>"
+
 # ╔═╡ 58603967-54e1-4904-9f8e-6ad2113dbc04
 md"""
 # Blog Post Notes
@@ -206,7 +209,7 @@ PlutoUI = "~0.7.58"
 PLUTO_MANIFEST_TOML_CONTENTS = """
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.10.0-rc2"
+julia_version = "1.10.1"
 manifest_format = "2.0"
 project_hash = "777ef5837957fd94e74be8a798964fa184633015"
 
@@ -235,7 +238,7 @@ version = "0.11.4"
 [[deps.CompilerSupportLibraries_jll]]
 deps = ["Artifacts", "Libdl"]
 uuid = "e66e0078-7015-5450-92f7-15fbd957f2ae"
-version = "1.0.5+1"
+version = "1.1.0+0"
 
 [[deps.Dates]]
 deps = ["Printf"]
@@ -345,7 +348,7 @@ version = "1.2.0"
 [[deps.OpenBLAS_jll]]
 deps = ["Artifacts", "CompilerSupportLibraries_jll", "Libdl"]
 uuid = "4536629a-c528-5b80-bd46-f80d51c5b363"
-version = "0.3.23+2"
+version = "0.3.23+4"
 
 [[deps.Parsers]]
 deps = ["Dates", "PrecompileTools", "UUIDs"]
@@ -414,7 +417,7 @@ uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 version = "1.10.0"
 
 [[deps.SuiteSparse_jll]]
-deps = ["Artifacts", "Libdl", "Pkg", "libblastrampoline_jll"]
+deps = ["Artifacts", "Libdl", "libblastrampoline_jll"]
 uuid = "bea87d4a-7f5b-5778-9afe-8cc45184846c"
 version = "7.2.1+1"
 
@@ -471,6 +474,7 @@ version = "17.4.0+2"
 """
 
 # ╔═╡ Cell order:
+# ╟─bb7d2bf4-eb27-4699-ad47-b17f88a14a03
 # ╟─58603967-54e1-4904-9f8e-6ad2113dbc04
 # ╟─9c0f18f3-aae9-4881-ade0-ef165c41f2da
 # ╟─31dff0ab-cabf-44d9-aac8-bc3c7bdf9da9
