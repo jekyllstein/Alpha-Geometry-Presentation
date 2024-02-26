@@ -187,7 +187,13 @@ md"""
 
 [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06747-5/MediaObjects/41586_2023_6747_MOESM1_ESM.pdf)
 
+[A Deductive Database Approach to Automated Geometry Theorem Proving and Discovering](https://www.researchgate.net/profile/Xiao-Shan-Gao/publication/220531926_A_Deductive_Database_Approach_to_Automated_Geometry_Theorem_Proving_and_Discovering/links/00b7d51a5db8fde97d000000/A-Deductive-Database-Approach-to-Automated-Geometry-Theorem-Proving-and-Discovering.pdf)
+
 [Meliad Transformer Library](https://github.com/google-research/meliad)
+
+[Angle Chasing Handout New York City Math Team](https://www.nycmathteam.org/wp-content/uploads/2020/10/Angle_Chasing.pdf)
+
+[28th International Conference on Automated Deduction (Automatically Building Diagrams for Olympiad Geometry Problems on page 577)](https://link.springer.com/content/pdf/10.1007/978-3-030-79876-5.pdf)
 """
 
 # ╔═╡ a0522ca4-d350-11ee-0394-97e03aa1457e
